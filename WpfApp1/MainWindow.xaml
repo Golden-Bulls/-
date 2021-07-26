@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         BorderThickness="1" BorderBrush="Black"  WindowStyle="None" Background="{x:Null}"  AllowsTransparency="True"
             MouseLeftButtonDown="DragWindow" WindowStartupLocation="CenterScreen"
-        Title="MainWindow" Height="1040" Width="1920" >
+        Title="MainWindow" Height="1040" Width="1920" > 
 
 
 
